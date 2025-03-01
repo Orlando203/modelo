@@ -1,6 +1,6 @@
 name: flowers_model
 
-on:
+on: 
   push:
     branches: [ main ]
   pull_request:
